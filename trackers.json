@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chollometro - Destacados (Principal)",
+    "url": "https://www.chollometro.com/",
+    "type": "universal"
+  },
+  {
+    "name": "Chollometro - Nuevos (Todo)",
+    "url": "https://www.chollometro.com/nuevos",
+    "type": "universal"
+  },
+  {
+    "name": "Chollometro - Electronica",
+    "url": "https://www.chollometro.com/categorias/electronica",
+    "type": "universal"
+  }
+]
